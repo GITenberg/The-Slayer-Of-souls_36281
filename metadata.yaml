@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36281#The-Slayer-Of-souls
 gutenberg_issued: '2011-05-30'
 gutenberg_type: Text
 identifiers:
